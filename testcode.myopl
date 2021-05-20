@@ -1,0 +1,9 @@
+# comment testing - language should skip this and not throw an error
+
+# print Testing
+PRINT("Hello world")
+
+# loop testing
+FOR i = 0 TO 5 THEN
+	PRINT("Loop test")
+END
